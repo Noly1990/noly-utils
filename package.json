@@ -1,0 +1,16 @@
+{
+  "name": "noly-utils",
+  "version": "1.0.0",
+  "description": "a utils collections of Noly1990",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": {
+    "name": "Noly1990",
+    "url": "https://github.com/Noly1990"
+  },
+  "homepage": "https://github.com/Noly1990/noly-utils.git",
+  "license": "MIT"
+}
