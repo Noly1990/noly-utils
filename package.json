@@ -4,11 +4,19 @@
   "description": "utils collections of Noly1990",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "compile": "node compile.js"
   },
-  "keywords": [],
-  "dependencies":{},
-  "devDependencies":{},
+  "keywords": [
+    "utils",
+    "node",
+    "browser"
+  ],
+  "dependencies": {},
+  "devDependencies": {
+    "babel-core": "^6.26.0",
+    "babel-preset-es2015": "^6.24.1"
+  },
   "author": {
     "name": "Noly1990",
     "url": "https://github.com/Noly1990"
